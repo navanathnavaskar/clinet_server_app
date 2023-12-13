@@ -1,4 +1,4 @@
-# clinet_server_app
+# client_server_app
 Application where server starts on specific port and then client connect to it
 
 ## To compile server program
